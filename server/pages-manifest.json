@@ -1,0 +1,13 @@
+{
+  "/404": "pages/404.html",
+  "/500": "pages/500.html",
+  "/_app": "pages/_app.js",
+  "/_document": "pages/_document.js",
+  "/gallery": "pages/gallery.html",
+  "/": "pages/index.html",
+  "/multisender": "pages/multisender.html",
+  "/spltoken": "pages/spltoken.html",
+  "/suatmm": "pages/suatmm.html",
+  "/upload": "pages/upload.html",
+  "/_error": "pages/_error.js"
+}
